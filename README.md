@@ -118,6 +118,10 @@ To destroy the infrastructure:
 ```bash
 cd terraform/environments/dev  # or your target environment
 terraform destroy
+
+
+
+check for this!!!
 ```
 
  
